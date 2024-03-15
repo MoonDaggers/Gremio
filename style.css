@@ -5,6 +5,7 @@
 }
 
 header {
+    text-align: center;
     width: 100%;
     background-color: rgb(199, 27, 27);
     color: #fff;
@@ -39,6 +40,7 @@ div.projetos > a:hover{
     color: rgb(183, 4, 4);
 }
 footer {
+    font-size: 15px;
     background-color: rgb(199, 27, 27);
     color: #fff;
     flex-shrink: 0;
